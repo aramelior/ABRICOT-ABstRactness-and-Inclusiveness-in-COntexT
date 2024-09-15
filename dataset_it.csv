@@ -1,0 +1,128 @@
+﻿ID,domain,begin,end,text,target_token,target_lemma,inc_mean,inc_std,abs_mean,abs_std,target_number,target_determiner,target_def,target_indef,target_dem,target_poss,target_quant,target_amod,main_verb,main_verb_habituality,main_verb_tense,main_verb_prog,main_verb_diat
+OROLOGIO_1,wikihow,8,15,Un bell'orologio d'oro è più efficace di un milione di catenine. ,orologio,orologio,0.580666667,0.299915861,0.598666667,0.382451989,SINGULAR,1,0,1,0,0,0,1,è,STATIC,PRES,0,0
+OROLOGIO_2,wikihow,17,24,"Molti anni fa, l'orologio da taschino era un accessorio comune tra gli uomini.",orologio,orologio,0.812,0.181745505,0.718,0.27844466,SINGULAR,1,1,0,0,0,0,0,era,STATIC,PAST,0,0
+OROLOGIO_3,wikihow,4,10,Gli orologi automatici sono tornati di moda dopo il successo di quelli al quarzo. ,orologi,orologio,0.748,0.203582205,0.692,0.297350202,PLURAL,1,1,0,0,0,0,1,sono tornati,EPISODIC,PAST,0,0
+OROLOGIO_4,wikihow,4,10,Gli orologi possono subire gravi danni dalle temperature estreme. ,orologi,orologio,0.88,0.160267633,0.683333333,0.330727913,PLURAL,1,1,0,0,0,0,0,possono,STATIC,PRES,0,0
+OROLOGIO_5,opensub,7,13,Questi orologi sono stupendi.,orologi,orologio,0.212666667,0.133922508,0.2,0.289334211,PLURAL,1,0,0,1,0,0,0,sono tornati,STATIC,PRES,0,0
+OROLOGIO_6,opensub,6,13,Quell'orologio non batte più un colpo da vent'anni.,orologio,orologio,0.011333333,0.020307165,0.16,0.263221797,SINGULAR,1,0,0,1,0,0,0,batte,HABITUAL,PRES,0,0
+OROLOGIO_7,opensub,7,14,Il tuo orologio va 2 minuti indietro.,orologio,orologio,0.02,0.060827625,0.049333333,0.083106358,SINGULAR,1,1,0,0,1,0,0,va,HABITUAL,PRES,0,0
+MARGHERITA_1,wikihow,21,30,"Viole, rose, gerani, margherite e nasturzi sono tutti esempi di fiori commestibili.",margherite,margherita,0.963333333,0.06862597,0.606,0.364981409,PLURAL,0,0,0,0,0,0,0,sono,STATIC,PRES,0,0
+MARGHERITA_2,opensub,3,12,La margherita mi ha detto che tu non mi ami.,margherita,margherita,0.019333333,0.039904648,0.356,0.409333954,SINGULAR,1,1,0,0,0,0,0,ha detto,EPISODIC,PAST,0,0
+MARGHERITA_3,opensub,4,13,Una margherita è fiorita nel solaio.,margherita,margherita,0.043333333,0.065210283,0.105333333,0.108750479,SINGULAR,1,0,1,0,0,0,0,è fiorita,EPISODIC,PAST,0,0
+MARGHERITA_4,opensub,3,12,Le margherite di fronte alla mia casa saranno in piena fioritura.,margherite,margherita,0.187333333,0.14805726,0.176666667,0.258226552,PLURAL,1,1,0,0,0,0,0,saranno,EPISODIC,FUT,0,0
+MARGHERITA_5,opensub,3,12,Le margherite sono i fiori che ama di più.,margherite,margherita,0.594,0.37460074,0.667333333,0.313060165,PLURAL,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+MUCCA_1,wikihow,3,8,Le mucche con il pedigree sono più costose degli incroci.,mucche,mucca,0.651333333,0.26720422,0.771333333,0.23533765,PLURAL,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+MUCCA_2,wikihow,4,8,Una mucca solitamente si troverà un posto separato per partorire.,mucca,mucca,0.86,0.19471591,0.638666667,0.323239554,SINGULAR,1,0,1,0,0,0,0,si troverà,HABITUAL,FUT,0,0
+MUCCA_3,opensub,3,8,Le mucche non danno latte in inverno.,mucche,mucca,0.943333333,0.093171629,0.611333333,0.323614998,PLURAL,1,1,0,0,0,0,0,danno,HABITUAL,PRES,0,0
+MUCCA_4,opensub,20,25,Sono morte circa 20 mucche.,mucche,mucca,0.194,0.140142784,0.271333333,0.307521583,PLURAL,1,0,0,0,0,1,0,Sono morte,EPISODIC,PAST,0,0
+MUCCA_5,opensub,4,8,Una mucca e il suo vitello sono caduti qui.,mucca,mucca,0.056,0.08757038,0.147333333,0.153132373,SINGULAR,1,0,1,0,0,0,0,sono caduti,EPISODIC,PAST,0,0
+MUCCA_6,opensub,7,11,La tua mucca sta avendo un parto prematuro.,mucca,mucca,0.023333333,0.065972577,0.158666667,0.249881877,SINGULAR,1,1,0,0,1,0,0,sta avendo,EPISODIC,PRES,1,0
+PATATA_1,opensub,14,19,"Ci sono orzo, patate e un po' di mais.",patate,patata,0.242666667,0.132905265,0.170666667,0.224609714,PLURAL,0,0,0,0,0,0,0,Ci sono,STATIC,PRES,0,0
+PATATA_2,opensub,7,12,Queste patate hanno un buon odore.,patate,patata,0.136666667,0.134624699,0.099333333,0.25364392,PLURAL,1,0,0,1,0,0,0,hanno,STATIC,PRES,0,0
+PATATA_3,wikihow,3,8,Le patate dolci sono ricche di vitamina A.,patate,patata,0.724666667,0.293765374,0.686666667,0.322549369,PLURAL,1,1,0,0,0,0,1,sono,STATIC,PRES,0,0
+PATATA_4,wikihow,15,20,I fagioli e le patate sono un punto fermo nelle cucine occidentali.,patate,patata,0.889333333,0.107468711,0.681333333,0.328565424,PLURAL,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+PATATA_5,wikihow,3,8,La patata cruda può agire come anti - infiammatorio.,patata,patata,0.864666667,0.256845331,0.718666667,0.279076709,SINGULAR,1,1,0,0,0,0,1,può,STATIC,PRES,0,0
+PATATA_6,wikihow,4,9,Una patata può generare fino a 900 gr di patate.,patata,patata,0.797333333,0.301270326,0.721333333,0.288515082,SINGULAR,1,0,1,0,0,0,0,può,STATIC,PRES,0,0
+PATATA_7,opensub,3,8,Le patate non sono ancora cotte.,patate,patata,0.237333333,0.290651157,0.2,0.311769145,PLURAL,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+ORCHESTRA_1,wikihow,3,11,Le orchestre sono favolose ma costano molto.,orchestre,orchestra,0.830666667,0.149879317,0.837333333,0.181086667,PLURAL,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+ORCHESTRA_2,opensub,2,10,L'orchestra è lassù.,orchestra,orchestra,0.108,0.219388761,0.189333333,0.309895528,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+ORCHESTRA_3,opensub,15,23,"Al completo, l'orchestra aveva 40 musicisti.",orchestra,orchestra,0.130666667,0.131609089,0.286,0.340688379,SINGULAR,1,1,0,0,0,0,0,aveva,HABITUAL,PAST,0,0
+ORCHESTRA_4,opensub,7,15,La mia orchestra suonerà un mio adattamento della marcia nuziale.,orchestra,orchestra,0.02,0.033166248,0.118666667,0.145742761,SINGULAR,1,1,0,0,1,0,0,suonerà,EPISODIC,FUT,0,0
+ORCHESTRA_5,opensub,3,11,Le orchestre russe non sono quelle di una volta.,orchestre,orchestra,0.518,0.224950788,0.726,0.222093931,PLURAL,1,1,0,0,0,0,1,sono,STATIC,PRES,0,0
+PERSONA_1,wikihow,3,9,Le persone che fanno volontariato hanno i nervi più saldi e il sistema immunitario più resistente.,persone,persona,0.549333333,0.279092065,0.720666667,0.280547085,PLURAL,1,1,0,0,0,0,0,hanno,STATIC,PRES,0,0
+PERSONA_2,wikihow,5,11,Ogni persona ha dei bisogni diversi.,persona,persona,0.807333333,0.257112167,0.894,0.125970518,SINGULAR,1,0,0,0,0,1,0,ha,STATIC,PRES,0,0
+PERSONA_3,wikihow,7,13,Alcune persone sono sensibili al glutammato e il loro organismo reagisce con la cefalea.,persone,persona,0.438,0.247218816,0.667333333,0.246908504,PLURAL,1,0,0,0,0,1,0,sono,STATIC,PRES,0,0
+PERSONA_4,wikihow,3,9,Le persone affette da eczema sono spesso sensibili ai prodotti aggressivi.,persone,persona,0.526,0.264866543,0.576666667,0.283036259,PLURAL,1,1,0,0,0,0,1,sono,STATIC,PRES,0,0
+PERSONA_5,opensub,7,13,Questa persona è davvero noiosa.,persona,persona,0.009333333,0.021536237,0.188666667,0.303923549,SINGULAR,1,0,0,1,0,0,0,è,STATIC,PRES,0,0
+PERSONA_6,opensub,3,9,Le persone lì fuori hanno le pistole.,persone,persona,0.135333333,0.09249453,0.286666667,0.321995268,PLURAL,1,1,0,0,0,0,0,hanno,STATIC,PRES,0,0
+PERSONA_7,opensub,3,9,Le persone possono cambiare quando le circostanze lo impongono.,persone,persona,0.764,0.252609241,0.866666667,0.186534817,PLURAL,1,1,0,0,0,0,0,possono,STATIC,PRES,0,0
+PERSONA_8,opensub,7,13,Quella persona si è svegliata e sembra stare bene.,persona,persona,0.028666667,0.044056241,0.225333333,0.321555742,SINGULAR,1,0,0,1,0,0,0,si è svegliata,EPISODIC,PAST,0,0
+CAMERIERE_1,wikihow,3,11,Un cameriere deve sapere prendere gli ordini e comunicare con i colleghi della cucina.,cameriere,cameriere,0.887333333,0.253953502,0.678,0.340004202,SINGULAR,1,0,1,0,0,0,0,deve,STATIC,PRES,0,0
+CAMERIERE_2,wikihow,10,18,Un grande cameriere anticipa sempre le necessità del tavolo. ,cameriere,cameriere,0.703333333,0.333780652,0.726666667,0.337017733,SINGULAR,1,0,1,0,0,0,1,anticipa,HABITUAL,PRES,0,0
+CAMERIERE_3,wikihow,2,10,I camerieri nei ristoranti norvegesi sono pagati piuttosto bene.,camerieri,cameriere,0.442,0.262874223,0.606,0.310961642,PLURAL,1,1,0,0,0,0,0,sono pagati,HABITUAL,PRES,0,1
+CAMERIERE_4,opensub,2,10,I camerieri erano impazienti.,camerieri,cameriere,0.302666667,0.238071618,0.323333333,0.377144661,PLURAL,1,1,0,0,0,0,0,erano,EPISODIC,PAST,0,0
+CAMERIERE_5,opensub,2,10,I camerieri di qua sono tutti clienti che non hanno pagato il conto.,camerieri,cameriere,0.176666667,0.128656057,0.329333333,0.353441583,PLURAL,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+CAMERIERE_6,opensub,3,11,Il cameriere Jacques è stato licenziato.,cameriere,cameriere,0.009333333,0.024630604,0.135333333,0.29724609,SINGULAR,1,1,0,0,0,0,0,è stato licenziato,EPISODIC,PAST,0,1
+SAGGEZZA_1,wikihow,3,10,La saggezza è una qualità molto ammirata dalle persone.,saggezza,saggezza,0.854666667,0.224304215,0.863333333,0.229024848,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+SAGGEZZA_2,wikihow,3,10,La saggezza popolare spinge a pensare che un anno canino corrisponda a 7 anni umani. ,saggezza,saggezza,0.583333333,0.307656271,0.752666667,0.297260508,SINGULAR,1,1,0,0,0,0,1,spinge,HABITUAL,PRES,0,0
+SAGGEZZA_3,opensub,7,14,La sua saggezza la fa pensare troppo.,saggezza,saggezza,0.102,0.115090027,0.594,0.395018987,SINGULAR,1,1,0,0,1,0,0,fa,HABITUAL,PRES,0,0
+SAGGEZZA_4,opensub,13,20,Conoscenza e saggezza sono il potere.,saggezza,saggezza,0.823333333,0.265885761,0.865333333,0.248362255,SINGULAR,0,0,0,0,0,0,0,sono,STATIC,PRES,0,0
+SAGGEZZA_5,opensub,7,14,La tua saggezza ti ha fatto scegliere la via migliore.,saggezza,saggezza,0.098666667,0.122466711,0.54,0.420272021,SINGULAR,1,1,0,0,1,0,0,ha fatto,EPISODIC,PAST,0,0
+AMBIZIONE_1,opensub,2,10,"L'ambizione va bene, quando funziona.",ambizione,ambizione,0.876,0.157471086,0.875333333,0.171500382,SINGULAR,1,1,0,0,0,0,0,va,STATIC,PRES,0,0
+AMBIZIONE_2,opensub,7,15,La sua ambizione lo rovinerà.,ambizione,ambizione,0.082666667,0.098522417,0.478,0.34583646,SINGULAR,1,1,0,0,1,0,0,rovinerà,EPISODIC,FUT,0,0
+AMBIZIONE_3,opensub,2,10,L'ambizione che mi ha accompagnato per tutta la vita è soddisfatta.,ambizione,ambizione,0.094666667,0.109340011,0.495333333,0.434048494,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+AMBIZIONE_4,wikihow,2,10,L'ambizione è un tratto fondamentale per un leader.,ambizione,ambizione,0.905333333,0.117099876,0.851333333,0.242070434,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+AMBIZIONE_5,opensub,7,15,Le mie ambizioni sono maggiori.,ambizioni,ambizione,0.244,0.261391879,0.518,0.384525682,PLURAL,1,1,0,0,1,0,0,sono,STATIC,PRES,0,0
+AMBIZIONE_6,opensub,13,21,La mia unica ambizione è quella di fermarti.,ambizione,ambizione,0.056666667,0.074896754,0.474666667,0.39523712,SINGULAR,1,1,0,0,1,0,1,è,STATIC,PRES,0,0
+AMBIZIONE_7,opensub,3,11,Le ambizioni sfrenate sono l'unico modo per ottenere qualcosa di veramente competitivo.,ambizioni,ambizione,0.631333333,0.274118501,0.846,0.238291538,PLURAL,1,1,0,0,0,0,1,sono,STATIC,PRES,0,0
+STRATEGIA_1,wikihow,4,12,Una strategia è un piano d'attacco ben organizzato volto a raggiungere un obiettivo.,strategia,strategia,0.929333333,0.120324957,0.714666667,0.37737565,SINGULAR,1,0,1,0,0,0,0,è,STATIC,PRES,0,0
+STRATEGIA_2,wikihow,3,11,"La strategia è un processo su misura, non una soluzione adattabile a qualsiasi situazione.",strategia,strategia,0.939333333,0.091531936,0.821333333,0.249509996,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+STRATEGIA_3,wikihow,4,12,Una strategia per stimolare l'attenzione di un ragazzo è quella di saperlo ascoltare. ,strategia,strategia,0.462,0.331645249,0.572,0.323688563,SINGULAR,1,0,1,0,0,0,0,è,STATIC,PRES,0,0
+STRATEGIA_4,wikihow,3,11,Le strategie terapeutiche devono prendere in considerazione la frequenza e la gravità delle ricadute.,strategie,strategia,0.724,0.204827454,0.684666667,0.355283924,PLURAL,1,1,0,0,0,0,1,devono,STATIC,PRES,0,0
+STRATEGIA_5,opensub,13,21,La tua unica strategia è usare la forza.,strategia,strategia,0.086,0.106757402,0.508666667,0.378811424,SINGULAR,1,1,0,0,1,0,1,è,STATIC,PRES,0,0
+STRATEGIA_6,opensub,10,18,La nostra strategia mira alla vittoria finale.,strategia,strategia,0.149333333,0.140532999,0.579333333,0.361514012,SINGULAR,1,1,0,0,1,0,0,mira,EPISODIC,PRES,0,0
+STRATEGIA_7,opensub,9,17,La nuova strategia di difesa è definita.,strategia,strategia,0.175333333,0.279817968,0.578666667,0.351768322,SINGULAR,1,1,0,0,0,0,1,è,STATIC,PRES,0,0
+STRATEGIA_8,opensub,3,11,Le strategie disponibili sono molteplici.,strategie,strategia,0.646666667,0.25152866,0.848666667,0.244244218,PLURAL,1,1,0,0,0,0,1,sono,STATIC,PRES,0,0
+BICI_1,wikihow,30,33,"Quando c'è molto traffico, la bici è il mezzo migliore per muoversi.",bici,bici,0.846,0.161191988,0.713333333,0.304505845,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+BICI_2,wikihow,4,7,Una bici dalle dimensioni sbagliate può provocare dolore alla schiena.,bici,bici,0.641333333,0.300615242,0.700666667,0.316283477,SINGULAR,1,0,1,0,0,0,0,può,STATIC,PRES,0,0
+BICI_3,wikihow,6,9,"Molte bici, come quelle a scatto fisso, non hanno i deragliatori.",bici,bici,0.627333333,0.254599592,0.661333333,0.302722567,PLURAL,1,0,0,0,0,1,0,hanno,STATIC,PRES,0,0
+BICI_4,wikihow,3,6,"Le bici, come le automobili, hanno bisogno di una corretta manutenzione.",bici,bici,0.970666667,0.072354945,0.768,0.25411471,PLURAL,1,1,0,0,0,0,0,hanno,STATIC,PRES,0,0
+BICI_5,opensub,10,13,Le nostre bici sono là.,bici,bici,0.054666667,0.071899401,0.074,0.083563492,PLURAL,1,1,0,0,1,0,0,sono,STATIC,PRES,0,0
+BICI_6,opensub,3,6,Le bici passavano in mezzo.,bici,bici,0.363333333,0.359119293,0.231333333,0.290365943,PLURAL,1,1,0,0,0,0,0,passavano,HABITUAL,PAST,0,0
+FARINA_1,opensub,7,12,Questa farina è stata rubata dal magazzino.,farina,farina,0.037333333,0.081981415,0.097333333,0.121212132,SINGULAR,1,0,0,1,0,0,0,è stata rubata,EPISODIC,PAST,0,1
+FARINA_2,opensub,3,8,La farina e il riso sono a destra.,farina,farina,0.227333333,0.355356293,0.102666667,0.117075474,SINGULAR,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+FARINA_3,wikihow,3,8,La farina di mandorle ha un ruolo fondamentale in molteplici ricette.,farina,farina,0.310666667,0.3343964,0.701333333,0.273126519,SINGULAR,1,1,0,0,0,0,0,ha,STATIC,PRES,0,0
+FARINA_4,wikihow,7,12,Alcune farine influenzano il sapore e la consistenza del prodotto finito.,farine,farina,0.525333333,0.21470467,0.594666667,0.351869835,PLURAL,1,0,0,0,0,1,0,influenzano,STATIC,PRES,0,0
+FARINA_5,wikihow,6,11,"Riso, farina, crema di nocciole e avena possono essere conservati a lungo.",farina,farina,0.926666667,0.214664744,0.601333333,0.322088423,SINGULAR,0,0,0,0,0,0,0,possono,STATIC,PRES,0,1
+FARINA_6,wikihow,3,8,"La farina e l' amido di mais vengono considerati addensanti ""secchi"".",farina,farina,0.856666667,0.213363093,0.648,0.308989135,SINGULAR,1,1,0,0,0,0,0,vengono considerati,STATIC,PRES,0,1
+BOTTIGLIA_1,opensub,3,11,La bottiglia si è rovesciata accidentalmente.,bottiglia,bottiglia,0.024666667,0.048087222,0.162666667,0.26184692,SINGULAR,1,1,0,0,0,0,0,si è rovesciata,EPISODIC,PAST,0,0
+BOTTIGLIA_2,wikihow,7,15,"Queste bottiglie si trovano facilmente nei negozi di alimentari , di casalinghi o nelle ferramenta.",bottiglie,bottiglia,0.344666667,0.274196662,0.156666667,0.211277295,PLURAL,1,0,0,1,0,0,0,si trovano,HABITUAL,PRES,0,0
+BOTTIGLIA_3,wikihow,4,12,Una bottiglia di vetro scuro è più adatta per contenere l'unguento.,bottiglia,bottiglia,0.492,0.310165854,0.56,0.339348115,SINGULAR,1,0,1,0,0,0,0,è,STATIC,PRES,0,0
+BOTTIGLIA_4,wikihow,3,11,Le bottiglie di plastica possono essere utilizzate per fare piccoli vasi per le piantine.,bottiglie,bottiglia,0.695333333,0.259170839,0.678666667,0.303217665,PLURAL,1,1,0,0,0,0,0,possono,STATIC,PRES,0,1
+BOTTIGLIA_5,opensub,9,17,Tutte le bottiglie sono identiche per me.,bottiglie,bottiglia,0.848,0.306948111,0.68,0.324081119,PLURAL,1,1,0,0,0,1,0,sono,STATIC,PRES,0,0
+BOTTIGLIA_6,opensub,13,21,Dov'è quella bottiglia?,bottiglia,bottiglia,0.018,0.030752468,0.102,0.143586708,SINGULAR,1,0,0,1,0,0,0,è,EPISODIC,PRES,0,0
+BOTTIGLIA_7,opensub,8,16,C'è una bottiglia sui gradini.,bottiglia,bottiglia,0.008666667,0.017265435,0.066,0.1063552,SINGULAR,1,0,1,0,0,0,0,C'è,STATIC,PRES,0,0
+BICCHIERE_1,wikihow,28,36,Su un piano di piastrelle i bicchieri si romperanno praticamente sempre.,bicchieri,bicchiere,0.871333333,0.172331353,0.6,0.353654391,PLURAL,1,1,0,0,0,0,0,si romperanno,HABITUAL,FUT,0,0
+BICCHIERE_2,wikihow,2,10,I bicchieri in polistirolo assorbono il suono invece che trasmetterlo.,bicchieri,bicchiere,0.574,0.331938032,0.648,0.314987528,PLURAL,1,1,0,0,0,0,0,assorbono,HABITUAL,PRES,0,0
+BICCHIERE_3,opensub,7,15,Questo bicchiere è mio.,bicchiere,bicchiere,0.000666667,0.002581989,0.128,0.263877677,SINGULAR,1,0,0,1,0,0,0,è,STATIC,PRES,0,0
+BICCHIERE_4,opensub,3,11,Un bicchiere rotto porta fortuna.,bicchiere,bicchiere,0.596666667,0.375074596,0.640666667,0.319653086,SINGULAR,1,0,1,0,0,0,1,porta,HABITUAL,PRES,0,0
+BICCHIERE_5,wikihow,7,15,Alcuni bicchieri hanno più imperfezioni microscopiche di altri.,bicchieri,bicchiere,0.54,0.273103853,0.636,0.341170255,PLURAL,1,0,0,0,0,1,0,hanno,STATIC,PRES,0,0
+BICCHIERE_6,wikihow,3,11,Un bicchiere piccolo farà sembrare il drink troppo concentrato.,bicchiere,bicchiere,0.526666667,0.294925334,0.425333333,0.339240047,SINGULAR,1,0,1,0,0,0,1,farà,EPISODIC,FUT,0,0
+GIARDINO_1,opensub,2,9,"I giardini sono così belli, in primavera.",giardini,giardino,0.864,0.173031789,0.692,0.221913754,PLURAL,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+GIARDINO_2,opensub,3,10,Il giardino è talmente selvatico che non so dove cominciare.,giardino,giardino,0.088666667,0.220125505,0.114666667,0.127215603,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+GIARDINO_3,opensub,3,10,Il giardino di Villette sta fiorendo.,giardino,giardino,0.052666667,0.098522417,0.084666667,0.130267125,SINGULAR,1,1,0,0,0,0,0,sta fiorendo,EPISODIC,PRES,1,0
+GIARDINO_4,wikihow,3,10,Un giardino rigoglioso e florido richiede la giusta quantità di penetrazione di acqua e aria.,giardino,giardino,0.750666667,0.291730469,0.617333333,0.321280177,SINGULAR,1,0,1,0,0,0,1,richiede,HABITUAL,PRES,0,0
+GIARDINO_5,wikihow,3,10,Un giardino va creato in una zona con un buon drenaggio e la giusta combinazione di luce e ombra.,giardino,giardino,0.848666667,0.232221159,0.778,0.205015679,SINGULAR,1,0,1,0,0,0,0,va creato,STATIC,PRES,0,1
+GIARDINO_6,wikihow,2,9,I giardini classici sono caratterizzati da semplici geometrie con contorni definiti.,giardini,giardino,0.648666667,0.333677917,0.709333333,0.240251852,PLURAL,1,1,0,0,0,0,1,sono caratterizzati,STATIC,PRES,0,1
+BENZINA_1,opensub,12,18,È finita la benzina.,benzina,benzina,0.239333333,0.339357937,0.281333333,0.277613983,SINGULAR,1,1,0,0,0,0,0,È finita,EPISODIC,PRES,0,1
+BENZINA_2,opensub,3,9,La benzina ha preso fuoco e il camion è esploso.,benzina,benzina,0.16,0.209455075,0.165333333,0.183375753,SINGULAR,1,1,0,0,0,0,0,ha preso,EPISODIC,PAST,0,0
+BENZINA_3,wikihow,3,9,La benzina e i suoi vapori sono molto infiammabili.,benzina,benzina,0.940666667,0.110160057,0.696666667,0.279122776,SINGULAR,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+BENZINA_4,wikihow,3,9,La benzina o il gasolio svaniscono se rimangono nel serbatoio per più di sei mesi.,benzina,benzina,0.798,0.193767165,0.746666667,0.23864698,SINGULAR,1,1,0,0,0,0,0,svaniscono,HABITUAL,PRES,0,0
+BENZINA_5,wikihow,27,33,In Italia è disponibile la benzina verde a 95 ottani.,benzina,benzina,0.653333333,0.270836447,0.573333333,0.388819949,SINGULAR,1,1,0,0,0,0,1,è,STATIC,PRES,0,0
+BENZINA_6,opensub,3,9,La benzina è nella bottiglia del latte.,benzina,benzina,0.063333333,0.12832251,0.064,0.110956877,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+OSPEDALE_1,opensub,16,23,Hai detto che l'ospedale è il posto che ti fa più paura.,ospedale,ospedale,0.791333333,0.292669162,0.702,0.279494442,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+OSPEDALE_2,opensub,2,9,"L'ospedale è qui vicino, a 30 chilometri di jeep.",ospedale,ospedale,0.039333333,0.08786895,0.112666667,0.11996825,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+OSPEDALE_3,opensub,4,11,Gli ospedali sono posti strani.,ospedali,ospedale,0.894666667,0.120645091,0.763333333,0.225124304,PLURAL,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+OSPEDALE_4,opensub,4,11,Gli ospedali gratuiti non risolvono tutto.,ospedali,ospedale,0.752666667,0.255020074,0.790666667,0.226919327,PLURAL,1,1,0,0,0,0,1,risolvono,EPISODIC,PRES,0,0
+OSPEDALE_5,wikihow,6,13,Molti ospedali assumono consulenti per l'allattamento.,ospedali,ospedale,0.675333333,0.23277416,0.753333333,0.237025215,PLURAL,1,0,0,0,0,1,0,assumono,HABITUAL,PRES,0,0
+OSPEDALE_6,wikihow,4,11,Gli ospedali hanno contenitori appositi per i diversi tipi di rifiuti.,ospedali,ospedale,0.888666667,0.230151089,0.615333333,0.352113348,PLURAL,1,1,0,0,0,0,0,hanno,STATIC,PRES,0,0
+OSPEDALE_7,wikihow,0,7,"Ospedali, prigioni e caserme militari hanno normalmente un cappellano disponibile.",Ospedali,ospedale,0.906666667,0.104243305,0.684,0.321020694,PLURAL,0,0,0,0,0,0,0,hanno,HABITUAL,PRES,0,0
+IRONIA_1,opensub,2,7,L'ironia di questa situazione non mi è sfuggita.,ironia,ironia,0.093333333,0.124995238,0.57,0.351161339,SINGULAR,1,1,0,0,0,0,0,è sfuggita,EPISODIC,PAST,0,0
+IRONIA_2,opensub,10,15,La vostra ironia è del tutto fuori posto.,ironia,ironia,0.151333333,0.18604403,0.562666667,0.328078098,SINGULAR,1,1,0,0,1,0,0,è,EPISODIC,PRES,0,0
+IRONIA_3,opensub,7,12,La sua ironia è solo paura.,ironia,ironia,0.067333333,0.085812642,0.734666667,0.323062724,SINGULAR,1,1,0,0,1,0,0,è,STATIC,PRES,0,0
+IRONIA_4,wikihow,26,31,"Nella scrittura comica, l'ironia nasce spesso dalla situazione.",ironia,ironia,0.702666667,0.191254007,0.874666667,0.149086105,SINGULAR,1,1,0,0,0,0,0,nasce,HABITUAL,PRES,0,0
+IRONIA_5,wikihow,18,23,La giovialità e l'ironia possono favorire il benessere delle persone che ti circondano.,ironia,ironia,0.728666667,0.278384797,0.935333333,0.119514892,SINGULAR,1,1,0,0,0,0,0,possono,STATIC,PRES,0,0
+IRONIA_6,opensub,3,8,Le ironie più crudeli sono quelle consacrate dal passare del tempo.,ironie,ironia,0.724666667,0.261666818,0.912,0.14634597,PLURAL,1,1,0,0,0,0,1,sono,STATIC,PRES,0,0
+IRONIA_7,opensub,2,7,L'ironia è che io non ho mai chiesto nulla di tutto questo.,ironia,ironia,0.224,0.270259135,0.766666667,0.244530649,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+EFFETTO_1,opensub,2,8,L'effetto del siero era sparito.,effetto,effetto,0.06,0.094415495,0.308666667,0.288118692,SINGULAR,1,1,0,0,0,0,0,era sparito,EPISODIC,PAST,0,0
+EFFETTO_2,opensub,4,10,Gli effetti della disoccupazione minacciano tutti i minatori.,effetti,effetto,0.619333333,0.328600206,0.801333333,0.255199269,PLURAL,1,1,0,0,0,0,0,minacciano,EPISODIC,PRES,0,0
+EFFETTO_3,opensub,13,19,"Il suo primo effetto è la risata improvvisa, violenta, incontrollabile.",effetto,effetto,0.194,0.26354181,0.466666667,0.329321091,SINGULAR,1,1,0,0,1,0,1,è,STATIC,PRES,0,0
+EFFETTO_4,opensub,2,8,L'effetto sparirà dopo circa un'ora.,effetto,effetto,0.203333333,0.32431613,0.271333333,0.285428667,SINGULAR,1,1,0,0,0,0,0,sparirà,EPISODIC,FUT,0,0
+EFFETTO_5,wikihow,4,10,Gli effetti dei cibi piccanti sono solo temporanei.,effetti,effetto,0.597333333,0.297020121,0.668666667,0.302864106,PLURAL,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+EFFETTO_6,wikihow,9,15,Causa ed effetto insegnano al bambino a fare delle scelte.,effetto,effetto,0.879333333,0.17970081,0.895333333,0.155511445,SINGULAR,0,0,0,0,0,0,0,insegnano,STATIC,PRES,0,0
+COSCIENZA_1,wikihow,3,11,La coscienza di sé è l'obiettivo finale della terapia comportamentale cognitiva.,coscienza,coscienza,0.636,0.380315658,0.837333333,0.270382445,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
+COSCIENZA_2,wikihow,23,31,"La consapevolezza e la coscienza sono simili, ma non sono esattamente la stessa cosa.",coscienza,coscienza,0.91,0.140661702,0.917333333,0.139563947,SINGULAR,1,1,0,0,0,0,0,sono,STATIC,PRES,0,0
+COSCIENZA_3,wikihow,4,12,Una coscienza sporca può appesantire il tuo benessere emotivo.,coscienza,coscienza,0.616,0.281698927,0.807333333,0.283711792,SINGULAR,1,0,1,0,0,0,1,può,STATIC,PRES,0,0
+COSCIENZA_4,opensub,7,15,La mia coscienza non mi preoccupa.,coscienza,coscienza,0.044666667,0.100914863,0.751333333,0.238233579,SINGULAR,1,1,0,0,1,0,0,preoccupa,STATIC,PRES,0,0
+COSCIENZA_5,opensub,10,18,"La vostra coscienza non parla spesso ma quando lo fa, parla chiaro.",coscienza,coscienza,0.305333333,0.34444296,0.730666667,0.292708208,SINGULAR,1,1,0,0,1,0,0,parla,HABITUAL,PRES,0,0
+COSCIENZA_6,opensub,3,11,La coscienza è la vocina che nessuno ascolta mai.,coscienza,coscienza,0.692,0.378081624,0.822666667,0.271147473,SINGULAR,1,1,0,0,0,0,0,è,STATIC,PRES,0,0
